@@ -1,4 +1,4 @@
-**Predicting Company Bankruptcy Using Liability Financial Metrics**
+## Predicting Company Bankruptcy Using Liability Financial Metrics
 
 Business failures, or "bankruptcies" as they may be more commonly referred to as, are a very real and unfortunate part of society. They can occur through the natural course of progression (such as smartphone cameras replacing the non-professional dedicated camera market), or be exacerbated through exogenous shocks (such as the dot-com bubble of 2001, or the 2007 financial crisis). In this analysis, we will try to determine if we can predict the looming bankruptcy of a company based on a variety of their fundamental financial metrics. Specifically, we will be looking at various debt and/or liability ratios in conducting our analysis.
 
